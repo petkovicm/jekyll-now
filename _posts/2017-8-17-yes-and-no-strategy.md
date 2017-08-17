@@ -14,8 +14,9 @@ This kind of approach is mostly used when the answer to the client's question/re
 
 This is an example with little to no chance of Yes answer, but you can also ask:
 
-	No, but let's see what are your exact use cases?
-	That can be a problem, tell me more details around your exact requirement?
+- No, but let's see what are your exact use cases?
+
+- That can be a problem, tell me more details around your exact requirement?
 
 
 There is no point in giving "**Firm No**" answers, except if the question is crystal clear, and we can't do much about it. 
