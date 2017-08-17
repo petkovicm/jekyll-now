@@ -4,7 +4,7 @@ title: Consultant's tips&tricks - Yes and No strategy
 ---
 
 (*In this post, I will share with you something I learned as a consultant working with Configure Price Quote vendor software. It is basically pre-built app, that the customer or  modeler can adapt to their business model and requirements*) 
-
+<!--more-->
 This kind of approach is mostly used when the answer to the client's question/request is NO, but there is also something good in it (upside or a good alternative). If they asked a question incorrectly (something that can be done both ways), then elaborate that the actual requirement is a NO, but what they really need is a YES.
 
 > *Example* :
