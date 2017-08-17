@@ -8,6 +8,7 @@ permalink: /resume/
 
  * <petkovicm@outlook.com>
  * <http://petkovicm.github.io>
+ * pdf of my resume [HERE](/images/milos-petkovic-cv.pdf).
 
 ## Background
 
@@ -75,7 +76,3 @@ I was assisting students from US colleges to develop and systematize study skill
 #### Data Mining Consultant (*Part - time* November 2014 - March 2015)
 
 I worked on analyzing, identifying and assessing data to perform strategic data analysis and research to support business needs, as necessary. My duty was to identify opportunities for improving business results.
-
-----------
-
-#### You can also DOWNLOAD .pdf of my resume [HERE](/images/milos-petkovic-cv.pdf).
