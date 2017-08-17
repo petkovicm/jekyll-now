@@ -5,6 +5,7 @@ title: Hey!Let's give it a go!
 
 Welcome! 
 This is my first blog post, where I would like to go deeper inside the topic of why I even started this.
+<!--more-->
 
 ![lol](https://neatoshit.files.wordpress.com/2012/07/doghairdresser.jpg)
 
