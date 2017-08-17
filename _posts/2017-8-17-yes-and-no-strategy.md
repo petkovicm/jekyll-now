@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consultant's tips&tricks : Yes and No strategy
+title: Consultant's tips&tricks - Yes and No strategy
 ---
 
 (*In this post, I will share with you something I learned as a consultant working with Configure Price Quote vendor software. It is basically pre-built app, that the customer or  modeler can adapt to their business model and requirements*) 
