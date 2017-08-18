@@ -39,7 +39,7 @@ I currently work as a Product Owner on the project where we develop custom migra
 
 #### Business Analyst/Solution Architect (June 2017 - Present)
 
-As I side project, I am helping my wife in her [startup company](https://medicbooker.com/) for medical tourism.
+As I side project, I am helping my wife with her [startup company](https://medicbooker.com/) for medical tourism.
 
 
 ### Callidus Cloud, USA
