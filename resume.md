@@ -21,7 +21,7 @@ Outside the programming world and IT industry, I’m a passionate NBA fan, podca
 
 Quality Management, B.S.  
 Fall 2006 - Spring 2012  
-Faculty of Organizational Sciences, Belgrade 
+Faculty of Organizational Sciences, Belgrade
 
 ## Proficiency
 
@@ -35,7 +35,7 @@ I have been running waterfall/agile projects with many successfull and big compa
 
 I currently work as a Product Owner on the project where we develop custom migration tool(using .NET) for one of the biggest Analytical laboratory instrument manufacturing company.
 
-### MedicBooker
+### MedicBooker, Serbia
 
 #### Business Analyst/Solution Architect (June 2017 - Present)
 
@@ -60,11 +60,11 @@ I worked in Callidus Cloud as BA on projects for [Dell](http://www.dell.com/sg/p
 
 As an Associate Consultant in Callidus Cloud I worked supporting implementation of [GKN](http://www.gkn.com/) project, designing :
 
-- additional workflow processes, 
+- additional workflow processes,
 - groovy scripts for non-standard functionalities,
 - specifications for additional requests/CRs,
 
-I also provided training sessions for the customer during the project handover. 
+I also provided training sessions for the customer during the project handover.
 
 ### 24HourAnswers, USA
 
