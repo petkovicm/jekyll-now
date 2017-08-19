@@ -25,7 +25,7 @@ Faculty of Organizational Sciences, Belgrade
 
 ## Proficiency
 
-I have been running waterfall/agile projects with many successfull and big companies as my clients. My expertise areas are CPQ applications, Workflow Applications and CRM. Most recently, I was introduced to BDD, and now I write all requirements using Cucumber/Gherkin. I am also proficient in tools like `Jira`, `Trello`, `GitHub/GitLab`, `Markdown`, `Visual Studio`.
+I have been running waterfall/agile projects with many successfull and big companies as my clients. My expertise areas are CPQ applications, Workflow Applications and CRM. Most recently, I was introduced to BDD, and now I write all requirements using Cucumber/Gherkin. I am also proficient in tools like `Jira`, `Trello`, `GitHub/GitLab`, `Markdown`,`Jekyll`, `Visual Studio`.
 
 ## Experience
 
