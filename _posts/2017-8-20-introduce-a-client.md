@@ -7,7 +7,7 @@ Sometimes, a client can be demanding as hell. And their requirements can go so b
 
 <!--more-->
 
-![lol](/images/dealing-with-difficult-clients)
+![lol](/images/dealing-with-difficult-clients.jpg)
 
 Sure enough, if you are careful about the documentation, you will easily be in the position where you can say to the customer:
 > Hey, here is the SOW, we agreed not to do XY for this implementation phase (or at all). If you want that, we will write CR (Change Request) and estimate it properly.
