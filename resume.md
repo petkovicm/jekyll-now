@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Resume
+title: Miloš Petković
 permalink: /resume/
 ---
----------
-# **Miloš Petković**
 
  * <petkovicm@outlook.com>
  * <http://petkovicm.github.io>
