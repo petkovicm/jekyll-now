@@ -9,8 +9,10 @@ For that to happen, I have chosen a path of learning Software Development, and m
 
 ### More Information
 
-Outside the programming world and IT industry, I’m a passionate NBA fan, podcast listener and recreational chess player. 
+Outside the programming world and IT industry, I’m a passionate NBA fan, podcast listener and recreational chess player.
 
 ### Contact me
 
-[petkovicm@outlook.com](mailto:petkovicm@outlook.com)
+E-mail: [petkovicm@outlook.com](mailto:petkovicm@outlook.com)
+
+LinkedIn: [Miloš Petković](https://www.linkedin.com/in/petkovicbgd/)
