@@ -13,7 +13,7 @@ Sure enough, if you are careful about the documentation, you will easily be in t
 > Hey, here is the SOW, we agreed not to do XY for this implementation phase (or at all). If you want that, we will write CR (Change Request) and estimate it properly.
 
 The attitude here is also important. You NEVER want to sound like a jerk even if you are a million times right. Try to sound friendly, like you are sincerely trying to help out (which you are) looking for every possible solution, meaning that you can expand on a statement like:
-> Your requirement XY is really going to afect:
+> Your requirement XY is really going to affect:
 >
 > - Maintenance - because we need to implement additional scripts/custom actions
 > - Performance - because that will affect the speed of the system by triggering additional logic
