@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Organize your learning by making a side project
+title: Organize your learning by creating a side project
 ---
 
 I believe that by now this general opinion became a standard for the industry, so there is no point in me trying to convince you that - **technology is growing rapidly**, and we need to keep up with it like housewives are doing with the Kardashians.
