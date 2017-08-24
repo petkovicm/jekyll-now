@@ -151,12 +151,15 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 40px;
+  background-color: $lightGray;
+  border-bottom: 1px solid #ddd;
+
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $black;
+  border-bottom: 0px solid $black;
 
   @include mobile {
     text-align: center;
@@ -201,7 +204,7 @@ img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: -3px 0 0 0;
   color: $darkerGray;
   font-size: 15px;
 
