@@ -26,3 +26,16 @@ BJ and Will are really, really, really awesome guys. They are really good friend
 [Complete Developer Podcast](http://completedeveloperpodcast.com/)
 
 You can also follow them on [twitter](https://twitter.com/CompleteDevPod).
+
+
+### The Cynical Developer
+
+
+![tcd](/images/cynical-developer.jpg "tcd")
+
+
+I recently discovered James Suddart. He is the first on this list to be fellow europian. When I am looking for a good podcast to listen, I worry about the content more than anything else. And the big plus can also be if a podcast is supported by blog posts, and I went over a couple of them, and they are really really awesome. You get the really nice tips and advice for your regular working days, plus there is also a reference to books that are good, episode to listen to, etc.
+
+[The Cynical Developer](http://cynicaldeveloper.com/)
+
+Blog posts are [HERE](http://cynicaldeveloper.com/Blog)
