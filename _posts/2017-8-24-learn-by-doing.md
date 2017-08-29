@@ -37,7 +37,7 @@ Eventually, I will come across a couple of obstacles, and then I will create a t
 
 <script src="https://gist.github.com/petkovicm/62d886a3f296cc6d1e15a12e26f3b961.js"></script>
 
-And after adding that to my index page, I just add `<!--more-->` whenever I want in my post, and Index page will hide the rest of the text, so that I can have a post preview and eventually interest you guys to click on `READ MORE` button.
+And after adding that to my index page, I just add `<!--more-->` wherever I want in my post, and Index page will hide the rest of the text, so that I can have a post preview and eventually interest you guys to click on `READ MORE` button.
 
 This is one circumstance that can take you even further, to open a project in `Jira` and start writing little user stories, create bugs, plan for future milestones, etc. Even though it sounds like an overkill with the project of this size - it is so good for practice, that by just doing it your everyday work will be similar to brushing your teeth at some point.
 
