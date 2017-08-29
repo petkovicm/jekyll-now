@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
  * <petkovicm@outlook.com>
- * <http://petkovicm.github.io>
+ * [GitHub] (https://github.com/petkovicm)
  * pdf of my resume [HERE](/images/milos-petkovic-cv.pdf).
  * My [LinkedIn profile](https://www.linkedin.com/in/petkovicbgd/)
 
