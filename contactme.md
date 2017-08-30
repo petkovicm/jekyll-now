@@ -4,7 +4,7 @@ title: Contact form
 permalink: /contactme/
 ---
 
-I would **love** to hear from you. Any query, any suggestion or feedback would be great!
+I would **love** to hear from you. Any question from your side, any suggestion or feedback would be really great!
 
 <form action="https://formspree.io/petkovicm@outlook.com"
       method="POST">
