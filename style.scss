@@ -151,6 +151,10 @@ img {
 //
 
 .wrapper-masthead {
+  position: sticky;
+  top: 0px;
+  height: 100px;
+  width: 100%;
   margin-bottom: 40px;
   background-color: $lightGray;
   border-bottom: 1px solid #ddd;
@@ -204,7 +208,7 @@ img {
 }
 
 .site-description {
-  margin: -3px 0 0 0;
+  margin: -4.5px 0 0 0;
   color: $darkerGray;
   font-size: 15px;
 
