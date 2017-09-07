@@ -4,14 +4,14 @@ title: Miloš Petković
 permalink: /resume/
 ---
 
- * <petkovicm@outlook.com>
- * [GitHub](https://github.com/petkovicm)
- * pdf of my resume [HERE](/images/milos-petkovic-cv.pdf).
+ * pdf of my resume [HERE](/images/milos-petkovic-cv.pdf)
  * My [LinkedIn profile](https://www.linkedin.com/in/petkovicbgd/)
+ * [GitHub](https://github.com/petkovicm)
+
 
 ## Background
 
-I am a Business Analyst/Product Owner. Think of me as a soft-skills expert with an interest in improving the technical part of my consulting skills. I enjoy experimenting with new things to help me find interesting intersections in technology, life, and business. Currently, I am in the process of upgrading my technical knowledge.
+I am currently employed as a Product Manager for CPQ Product @ [Callidus Cloud](http://www.calliduscloud.com/). I consider myself a soft-skills expert with the enormous interest in improving the technical part of my consulting skills. I enjoy experimenting with new things to help me find interesting intersections in technology, life, and business. In my spare time, I like to play around with front-end, write blog posts, and come up with the new ideas for the product that my team develops.
 
 Outside the programming world and IT industry, I’m a passionate NBA fan, podcast listener, and recreational chess & basketball player.
 
@@ -23,15 +23,21 @@ Faculty of Organizational Sciences, Belgrade
 
 ## Proficiency
 
-I have been running waterfall/agile projects with many successful and big companies as my clients. My expertise areas are CPQ applications, Workflow Applications and CRM. Most recently, I was introduced to BDD, and now I write all requirements using Cucumber/Gherkin. I am also proficient in tools like `Jira`, `Trello`, `Git`, `Markdown`,`Jekyll`, `Visual Studio`.
+I have been running waterfall/agile projects with many successful and big companies as my clients. My expertise areas are CPQ applications, Workflow Applications and CRM. Most recently, I was introduced to BDD, and now I write all requirements using Cucumber/Gherkin. I also enjoy using tools like `Jira`, `Trello`, `Git`, `Markdown`,`Jekyll`, `Visual Studio`.
 
 ## Experience
 
+### Callidus Cloud, USA
+
+#### Product Manager (September 2017 - Present)
+
+I currently work in Callidus Cloud, where I am engaged in building the next generation CPQ tool for large enterprise companies.
+
 ### Comtrade, Serbia
 
-#### Product Owner (July 2017 - Present)
+#### Product Owner (July 2017 - September 2017)
 
-I currently work as a Product Owner on the project where we develop custom migration tool(using .NET technology) for one of the biggest Analytical laboratory instrument manufacturing company.
+During my short engagement as a Product Owner in Comtrade, I prepared Proof Of Concept for building custom migration tool (using .NET technology) for one of the biggest Analytical laboratory instrument manufacturing company.
 
 ### MedicBooker, Serbia
 

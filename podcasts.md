@@ -3,7 +3,7 @@ layout: page
 title: Podcasts
 permalink: /podcasts/
 ---
-Here is the section where I will add links to podcasts that I am listening, and that helped me a lot to motivate myself. List of podcasts will not be in any ranked order. I really enjoy and recommend all of them, no matter how many I end up adding.
+Here is the section where I will add links to podcasts that I am listening, and that helped me a lot to motivate and develop myself. List of podcasts will not be in any ranked order. I really enjoy and recommend all of them, no matter how many I end up adding.
 
 ### Coding Blocks
 
