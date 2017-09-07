@@ -151,10 +151,10 @@ img {
 //
 
 .wrapper-masthead {
-  position: sticky;
-  top: 0px;
-  height: 100px;
-  width: 100%;
+  //position: sticky;
+  //top: 0px;
+  //height: 100px;
+  //width: 100%;
   margin-bottom: 40px;
   background-color: $lightGray;
   border-bottom: 1px solid #ddd;
@@ -250,7 +250,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 2px solid $lightGray;
 }
 
 .posts > .post:last-child {
