@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix No GitHub API Authentication error in Jekyll
+title: How to fix &quot;No GitHub API Authentication&quot; error in Jekyll
 ---
 
 Hi there. I recently switched jobs, so I was busy making a transition, and also got myself a new gear (MB Pro yummy). I was *Windows* user for about 15 years, and actually, remember running Aladin game from *MS-DOS* prompt window. Now, the time has come to step on the dark side and explore possibilities of a new environment for work and personal projects.
