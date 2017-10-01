@@ -8,7 +8,7 @@ This page will be reserved for the recommendation of books, websites, and tutori
 
 ### Websites & Blogs
 
-**[codeshare.co.uk](https://www.codeshare.co.uk)**
+**[codeshare.co.uk](http://www.codeshare.co.uk/)**
 
 A great resource for learning web development using MVC and Umbraco CMS. Author of this website, Paul Seal, is great at transferring knowledge, has a ton of very useful stuff on his website (check out "Tools" section) and every so often you can watch him code live on his [twitch channel](https://www.twitch.tv/prjseal).
 
