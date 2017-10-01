@@ -12,7 +12,7 @@ This page will be reserved for the recommendation of books, websites, and tutori
 
 A great resource for learning web development using MVC and Umbraco CMS. Author of this website, Paul Seal, is great at transferring knowledge, has a ton of very useful stuff on his website (check out "Tools" section) and every so often you can watch him code live on his [twitch channel](https://www.twitch.tv/prjseal).
 
-**[slightedgecoder.com](https://www.sungkim.co/)**
+**[sungkim.co](http://www.sungkim.co/)**
 
 One of the probably most active members of ```#codingblocks``` [slack channel](https://www.codingblocks.net/slack/) is Sung Kim, Software engineer from NY. He shares an enourmous passion for development, contribution to community, blogging, learning, and teaching. You can follow his journey on his blog, and maybe on twitch channel soon enough. 
 
